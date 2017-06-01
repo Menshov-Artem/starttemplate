@@ -1,0 +1,11 @@
+{
+  "name": "start_template",
+  "version": "1.0.0",
+  "description": "Starting template for comfortable development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Menshov G. Artem",
+  "license": "ISC"
+}
